@@ -1,7 +1,6 @@
 # Drinks
 
-"Drinks" is an aplication that is exclusively focus in Cocktails searching. You can view the aplication in this link: https://movies-marianofernandez.netlify.app/  or 
-https://movies-marianofndz.vercel.app
+"Drinks" is an aplication that is exclusively focus in Cocktails searching. You can view the aplication in this link: https://drinks-git-master.marianofndz.vercel.app
 
 ## API
 
